@@ -15,9 +15,9 @@ function About() {
           <p>My focus is on <span>Java full-stack development</span> — from building robust backend APIs using Spring Core, Hibernate, and Java Servlets, to crafting clean, responsive frontends with React.js.</p>
           <p>Outside of coding, I served as Finance Chair for IEEE Student Branch, organizing 3+ technical events for 100+ students. I also enjoy solving DSA problems on LeetCode (70+) and playing cricket.</p>
           <div className='quick-links'>
-            <a href=''>Github↗</a>
-            <a href=''>LinkedIn↗</a>
-            <a href=''>Leetcode↗</a>
+            <a href='https://github.com/lokeshgundapaneni'>Github↗</a>
+            <a href='https://www.linkedin.com/in/lokeshgundapaneni/'>LinkedIn↗</a>
+            <a href='https://leetcode.com/u/i__lokesh__/'>Leetcode↗</a>
           </div>
         </div>
       </div>
