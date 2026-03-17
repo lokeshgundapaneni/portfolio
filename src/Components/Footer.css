@@ -1,0 +1,29 @@
+.footer
+{
+    padding: 1rem;
+}
+.up
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.up a
+{
+    margin-right: 2rem;
+    color: #de6316;
+}
+.up .logo h1
+{
+    color: rgb(54, 54, 54);
+}
+span{
+    color: #de6316;
+}
+.down p
+{
+    margin-top: 1rem;
+    text-align: center;
+    color: rgb(80, 75, 75);
+}
